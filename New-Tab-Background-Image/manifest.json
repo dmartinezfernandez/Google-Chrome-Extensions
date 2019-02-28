@@ -1,6 +1,6 @@
 {
 	"name": "New Tab Background Image",
-	"description" : "Open a new tab with a background image.",
+	"description" : "Overrides Chrome New Tab page with an image in background.",
 	"version": "1.0",
 	"manifest_version": 2,
 	"chrome_url_overrides": {
