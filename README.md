@@ -6,3 +6,5 @@
 
 
 See https://developer.chrome.com/extensions/override for more information.
+
+See https://support.google.com/chrome/a/answer/187202 for Chrome Browser policies on managed PCs.
